@@ -6,7 +6,8 @@ An interactive web application built with **Streamlit** and **Scikit-Learn** to 
 
 ## 🚀 Live Demo
 
-If deployed to Streamlit Cloud, you can access the application directly via your Streamlit Community Cloud link.
+Access the live web application on Streamlit Community Cloud:  
+👉 **[salary-prediction-job.streamlit.app](https://salary-prediction-job.streamlit.app/)**
 
 ---
 
